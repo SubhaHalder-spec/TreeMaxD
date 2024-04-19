@@ -1,4 +1,4 @@
-#' Max-D test is for testing equality means against tree-ordered alternatives in one-way ANOVA
+#' Max-D test for testing equality means against tree-ordered alternatives in one-way ANOVA
 #' @export
 #' @param sample_data list
 #' @param significance_level numeric
