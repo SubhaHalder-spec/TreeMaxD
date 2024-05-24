@@ -39,6 +39,3 @@ TreeMaxD <- function(sample_data, significance_level){
   }
   return(paste("Critical value:", quantile_value, "; D_Max Test statistic:", D_Max, "; Result:", result))
 }
-
-
-?TreeMaxD
